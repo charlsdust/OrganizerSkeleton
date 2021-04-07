@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rzeczy\IRzecz.cs" />
+    <Compile Include="Rzeczy\Ksiazka.cs" />
+    <Compile Include="Rzeczy\Płyta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

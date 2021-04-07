@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrganizerSkeleton.Rzeczy
 {
-    interface IRzecz
+    public interface IRzecz
     {
         string Name { set; get; }
         string Author { set; get; }
